@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screen Authentication
+
+- Local Auth
+
+![Local Auth](https://user-images.githubusercontent.com/54339869/79627919-c6078f00-8112-11ea-81c8-753568d8cea4.gif)
